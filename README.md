@@ -27,6 +27,14 @@ Proje, bir genel RESTful API ve Trendyol'un sağladığı RESTful API bağlantı
 
 
 
+![ (1)](https://github.com/user-attachments/assets/46dbc232-d1d9-4ec2-902f-db76511f1384)
+![ (8)](https://github.com/user-attachments/assets/71e95bcb-177b-4c84-8bf9-83edcb6def6e)
+![ (7)](https://github.com/user-attachments/assets/040f1966-0f2c-42ea-8aae-baf3799543ca)
+![ (6)](https://github.com/user-attachments/assets/fd3d2b73-9810-435a-8367-9e0eb93c229f)
+![ (5)](https://github.com/user-attachments/assets/314b3b5b-19ce-4c09-8270-031659849305)
+![ (4)](https://github.com/user-attachments/assets/5fed0366-46b6-44cf-ae95-cb3337d12e6a)
+![ (3)](https://github.com/user-attachments/assets/fa8f72bf-682f-4db5-8a19-e6615b9b416c)
+![ (2)](https://github.com/user-attachments/assets/8554f1d3-5849-4e67-ab79-b782beb22d96)
 
 
 
